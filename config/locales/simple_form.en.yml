@@ -6,11 +6,17 @@ en:
     labels:
       quote:
         name: Name
+      line_item_date:
+        date: Date
     helpers:
       submit:
+        line_item_date:
+          create: Create date
+          update: Update date
         quote:
           create: Create quote
           update: Update quote
+
     "yes": 'Yes'
     "no": 'No'
     required:
